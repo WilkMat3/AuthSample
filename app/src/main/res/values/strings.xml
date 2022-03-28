@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AuthSample</string>
+    <string name="text"><font color="#000000">Not registered yet? </font> <font
+        color="#0000ff">Click here</font></string>
+    <string name="text2"><font color="#000000">Already registered?  </font> <font
+        color="#0000ff">Click here</font></string>
+</resources>
